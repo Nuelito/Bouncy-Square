@@ -1,2 +1,8 @@
 # Bouncy-Square
-Dollarstore Flappy Bird
+A Dollarstore Flappy Bird
+
+Stuff you need :
+- Pyglet
+- Python
+- A computer
+
