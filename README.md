@@ -5,4 +5,3 @@ Stuff you need :
 - Pyglet
 - Python
 - A computer
-
